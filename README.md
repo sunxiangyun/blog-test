@@ -13,6 +13,7 @@
     console.log('hello world')
 
 ### 代码2
-    ```JavaScript
+    ```javascript
     var a =1;
     console.log(a);
+    ```
