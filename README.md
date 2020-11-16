@@ -17,3 +17,4 @@
     var a =1;
     console.log(a);
 ```
+![古力娜扎](111.png)
